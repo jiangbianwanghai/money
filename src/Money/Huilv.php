@@ -3,7 +3,7 @@ namespace Money;
 
 class Huilv
 {
-    public static function CNY
+    public static function CNY()
     {
         echo 'CNY - US'.time().PHP_EOL;
     }
