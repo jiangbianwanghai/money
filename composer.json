@@ -1,0 +1,17 @@
+{
+    "name": "jiangbianwanghai/money",
+    "description": "money,money,money!!!",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "liqiming",
+            "email": "jiangbianwanghai@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+	"psr-4":{
+	    "Money\\":"src/Money"
+        }
+    }
+}
