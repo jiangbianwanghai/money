@@ -5,6 +5,7 @@ class Huilv
 {
     public static function CNY()
     {
-        echo 'CNY - US'.time().PHP_EOL;
+        echo 'CNY - USD:'.time().PHP_EOL;
+        echo 'CNY - JPY:'.time().PHP_EOL;
     }
 }
